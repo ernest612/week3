@@ -1,0 +1,147 @@
+img {
+    width: 150px;
+    height: 160px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+}
+
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.first {
+    float: left;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+
+}
+
+.second {
+    float: right;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.third {
+    float: left;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.fourth {
+    float: right;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.fifth {
+    float: left;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.sixth {
+    float: right;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.seven {
+    float: left;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.eight {
+    float: right;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.nine {
+    float: left;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.ten {
+    float: right;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.eleven {
+    float: left;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.twelve {
+    float: right;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.thirteen {
+    float: left;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.fourteen {
+    float: right;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+.fifteen {
+    float: left;
+    border-style: dotted;
+    text-align: center;
+    background-color: peachpuff;
+}
+
+div {
+    width: 400px;
+
+
+}
+
